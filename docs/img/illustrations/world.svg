@@ -31,7 +31,7 @@
 	.st25{fill:url(#XMLID_2018_);}
 	.st26{fill:url(#XMLID_2019_);}
 	.st27{fill:url(#XMLID_2020_);}
-	.st28{fill:url(#XMLID_2021_);}
+	.st28{fill:url(#XMLID_2022_);}
 	.st29{fill:url(#XMLID_2022_);}
 	.st30{fill:url(#XMLID_2023_);}
 	.st31{fill:url(#XMLID_2024_);}
@@ -9304,7 +9304,7 @@
 			<path id="XMLID_1847_" class="st27" d="M-22.6,177.5C-22.6,177.5-22.6,177.5-22.6,177.5C-22.6,177.5-22.6,177.5-22.6,177.5
 				C-22.6,177.5-22.6,177.5-22.6,177.5c-0.3,0.1-0.5,0.2-0.7,0.2c-0.3,0.1-0.5,0.1-0.8,0.2c-0.2,0.1-0.3,0.1-0.3,0.1
 				c0.1,0,0.8-0.1,1.2-0.2C-23,177.8-22.9,177.7-22.6,177.5C-22.6,177.5-22.6,177.5-22.6,177.5z"/>
-			<linearGradient id="XMLID_2021_" gradientUnits="userSpaceOnUse" x1="-24.3808" y1="177.5403" x2="-23.2171" y2="177.5403">
+			<linearGradient id="XMLID_2022_" gradientUnits="userSpaceOnUse" x1="-24.3808" y1="177.5403" x2="-23.2171" y2="177.5403">
 				<stop  offset="1.916698e-007" style="stop-color:#7F00FF"/>
 				<stop  offset="0.4889" style="stop-color:#7D00FF"/>
 				<stop  offset="0.665" style="stop-color:#7600FF"/>
