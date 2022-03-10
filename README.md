@@ -1,13 +1,13 @@
-# 👋 Krypton
+# 👋 knite f3
 
-> Krypton is a free ICO / Crypto template built by [cssninjaStudio](https://cssninja.io).
+> knite f3 is a free ICO / Crypto template built by [cssninjaStudio](https://cssninja.io).
 
-![Screenshot](https://media.cssninja.io/products/krypton/product.png "Krypton")
+![Screenshot](https://media.cssninja.io/products/knite f3/product.png "knite f3")
 
 ## ✌️ preview
 
-Check out the live demo by clicking [here](https://cssninjastudio.github.io/krypton/).
-Krypton is built with [Bulma](https://bulma.io) and [Alpine JS](https://github.com/alpinejs/alpine).
+Check out the live demo by clicking [here](https://cssninjastudio.github.io/knite f3/).
+knite f3 is built with [Bulma](https://bulma.io) and [Alpine JS](https://github.com/alpinejs/alpine).
 
 ## 👍 Features
 
@@ -50,7 +50,7 @@ Please try to follow these simple guidelines to report your issue:
 
 ## 🎉 More
 
-You liked Krypton? Check also our other premium Envato bulma themes [Css Ninja](https://cssninja.io/themes).
+You liked knite f3? Check also our other premium Envato bulma themes [Css Ninja](https://cssninja.io/themes).
 
 Find more premium bulma templates on [Css Ninja](https://cssninja.io/category/all).
 

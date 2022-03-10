@@ -1,16 +1,16 @@
 {
-  "name": "krypton",
+  "name": "knite f3",
   "version": "4.1.1",
-  "description": "Krypton - Bulma + Alpine JS ICO/Crypto Starter",
+  "description": "knite f3 - Bulma + Alpine JS ICO/Crypto Starter",
   "author": "cssninjaStudio",
   "license": "MIT",
-  "homepage": "https://cssninjastudio.github.io/krypton",
+  "homepage": "https://cssninjastudio.github.io/knite f3",
   "bugs": {
-    "url": "https://github.com/cssninjaStudio/krypton/"
+    "url": "https://github.com/cssninjaStudio/knite f3/"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:cssninjaStudio/krypton.git"
+    "url": "git@github.com:cssninjaStudio/knite f3.git"
   },
   "keywords": [
     "gulp",

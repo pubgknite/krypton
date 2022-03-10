@@ -1,4 +1,4 @@
-/*! _buttons.scss | Krypton | CSS Ninja */
+/*! _buttons.scss | knite f3 | CSS Ninja */
 
 /* ==========================================================================
 Button styles
@@ -13,12 +13,12 @@ TABLE OF CONTENTS
 ***/
 
 /* ==========================================================================
-0. Krypton button
+0. knite f3 button
 ========================================================================== */
 
 //Base class
 .button {
-    //Krypton modifier
+    //knite f3 modifier
     &.k-button {
         min-width: 130px;
         font-size: .75rem;
@@ -70,7 +70,7 @@ TABLE OF CONTENTS
         }
     }
 
-    //Primary Krypton button
+    //Primary knite f3 button
     &.k-primary {
         color: $white;
 
@@ -142,7 +142,7 @@ TABLE OF CONTENTS
         }
     }
 
-    //Secondary Krypton button
+    //Secondary knite f3 button
     &.k-secondary {
         color: $white;
 
