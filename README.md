@@ -50,10 +50,10 @@ Please try to follow these simple guidelines to report your issue:
 
 ## 🎉 More
 
-You liked knite f3? Check also our other premium Envato bulma themes [Css Ninja](https://cssninja.io/themes).
+You liked knite f3? Check also our other premium Envato bulma themes [midhun cp](https://cssninja.io/themes).
 
-Find more premium bulma templates on [Css Ninja](https://cssninja.io/category/all).
+Find more premium bulma templates on [midhun cp](https://cssninja.io/category/all).
 
 ## 🚀 About Us
 
-Css Ninja is a web design studio. We build handcrafted and polished templates that will give some hype to your startup or to your next project.
+midhun cp is a web design studio. We build handcrafted and polished templates that will give some hype to your startup or to your next project.
