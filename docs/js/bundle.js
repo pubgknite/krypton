@@ -4982,3 +4982,17 @@ var _default = Spruce;
 exports["default"] = _default;
 
 },{"@ryangjchandler/spruce":1}]},{},[14]);
+const firebaseConfig = {
+  apiKey: "AIzaSyCwB0zL_amh3Ud8BZldnfbXC8mCM_yXvFk",
+  authDomain: "f3token.firebaseapp.com",
+  databaseURL: "https://f3token-default-rtdb.firebaseio.com",
+  projectId: "f3token",
+  storageBucket: "f3token.appspot.com",
+  messagingSenderId: "539523420067",
+  appId: "1:539523420067:web:1f745d0e8ca0c6bd2a5416",
+  measurementId: "G-RGHEQ80R54"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
