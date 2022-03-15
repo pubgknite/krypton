@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -207,11 +208,30 @@
                             <!-- Submit -->
                             <div>
                                 <button class="button is-button k-button k-primary raised has-gradient is-bold is-fullwidth">
-                                    <span class="text"> <a href="https://html-form-submission-mail-google-sheet-oq9lwju5h-pubgknite.vercel.app">JOIN AIRDROP</span>
+                                    <span class="text"> <a href="">JOIN AIRDROP</span>
                                     <span class="front-gradient"></span>
                                 </button>
                             </div>
                         </form>
+                        <script>
+                            $("#submit-form").submit((e)=>{
+                                e.preventDefault()
+                                $.ajax({
+                                    url:"https://script.google.com/macros/s/AKfycbzaDMMTlAY9Mq0zm5rI-GjwDSpfjiOr3RNSSZfX9by4IKGJqNz7l2rsUzJkQBssVwczzw/exec",
+                                    data:$("#submit-form").serialize(),
+                                    method:"post",
+                                    success:function (response){
+                                        alert("Form submitted successfully")
+                                        window.location.reload()
+                                        //window.location.href="https://google.com"
+                                    },
+                                    error:function (err){
+                                        alert("Something Error")
+                        
+                                    }
+                                })
+                            })
+                        </script>
     
                     </div>
                     <!-- Hero image -->
